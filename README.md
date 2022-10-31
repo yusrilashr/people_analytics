@@ -1,2 +1,2 @@
 ## Portofolio People Analytics Intern
-Repository sql untuk portfolio people analytics intern di Tiket.com
+Repository sql untuk portfolio people analytics
